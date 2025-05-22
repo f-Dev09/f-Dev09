@@ -1,16 +1,16 @@
-<h1 align="center">Hey there 👋 Welcome to DevCofee </h1>
+<h1 align="center">Hey there 👋 Welcome to DevCoffee</h1>
 
 <p align="center">
-  Where you can Code, Learn, and have cofee 
+  ☕ Where you can Code, Learn, and enjoy coffee breaks 🍪
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Currently studying Computer Science-cloud compuing 
-- 🔭 I’m currently working towards becoming a **Full-Stack Developer** 
-- 🌱 I’m always learning and experimenting with new tech
-- 💬 I enjoy helping others and sharing my humble knowledge
+- 🎓 Computer Science (Cloud Computing)
+- 💡 Full-Stack Developer in progress
+- 🌱 Learning something new every day
+- 💬 I love helping others and sharing what I learn
 
 ---
 
@@ -33,11 +33,17 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
 ### 📫 Let's Connect
-- 🌐 Portfolio: coming soon...
-- 📸 Instagram: coming soon...
+- 🌐 Portfolio: *coming soon...*
+- 📸 Instagram: *coming soon...*
+- 📹 YouTube: *coming soon...*
+- 🎥 TikTok Dev Tutorials: *coming soon...*
 
 ---
+
+🧁 *Thanks for stopping by! Grab a coffee and explore the code!*  
