@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 Wlcome to DevCofee </h1>
+<h1 align="center">Hey there 👋 Welcome to DevCofee </h1>
 
 <p align="center">
   Where you can Code, Learn, and have cofee 
